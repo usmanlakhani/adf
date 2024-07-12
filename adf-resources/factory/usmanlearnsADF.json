@@ -1,0 +1,9 @@
+{
+	"name": "usmanlearnsADF",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "2322d2a5-85cd-4506-98a0-f39347cd88ea",
+		"tenantId": "2c23f34a-456c-4cdc-ad92-a0ec96e22df6"
+	}
+}
